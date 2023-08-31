@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/prime number between the range.iml" filepath="$PROJECT_DIR$/prime number between the range.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime numberCalculator.iml" filepath="$PROJECT_DIR$/prime numberCalculator.iml" />
     </modules>
   </component>
 </project>
